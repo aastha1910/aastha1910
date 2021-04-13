@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aastha1910
+- 👋 Hi, I’m Aastha
 - 👀 I’m interested in AI and Quantum Computing
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ML Projects
